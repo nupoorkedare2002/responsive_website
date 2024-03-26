@@ -1,6 +1,6 @@
 # ✨ responsive_website ✨
 
-- Developed a  responsive websites using HTML & CSS ✨
+- responsive websites using HTML & CSS ✨
 -   - Live Demo 🚀 : https://responsive-website-three-delta.vercel.app/index.html
 
  ![image](https://github.com/nupoorkedare2002/responsive_website/assets/143624372/98acb91f-80cd-4421-a1f5-e4a35b0ca2b2)
